@@ -1,9 +1,15 @@
 import React from 'react';
+import Profile from './profile/index'
+
 
 class App extends React.Component {
     render(){
-        return <h1> <strong>Hello Avee, U are my best friend</strong></h1>
-    }    
-}
+        return(
+        <div>
+            <Profile/>
+        </div>
+        );
+    }           
+};
 
 export default App;
