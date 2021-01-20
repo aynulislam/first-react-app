@@ -6,6 +6,8 @@ const Skills = () => (
         <h3>Skills: </h3>
         <ul>
             <li>Python</li>
+            <li>Django</li>
+            <li>Rest Api</li>
             <li>Javascript</li>
             <li>Es6</li>
             <li>React JS</li>
