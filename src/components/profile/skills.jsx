@@ -12,9 +12,11 @@ const Skills = () => (
             <li>Es6</li>
             <li>React JS</li>
             <li>Mysql</li>
-            <li>ajax</li>
-            <li>jquery</li>
-            <li>html,css,bootstrap</li>
+            <li>Ajax</li>
+            <li>Jquery</li>
+            <li>Html</li>
+            <li>Css</li>
+            <li>Bootstrap</li>
         </ul>
     </div>
 );

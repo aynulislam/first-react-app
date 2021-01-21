@@ -3,7 +3,7 @@ import React from 'react';
 
 
 const name = "Mohammad Aynul Islam";
-const designation = "Designationc : Software Engineer";
+const designation = "Designation : Software Engineer";
 const companyName = "Dekko Isho Group";
 const departmentName = "Department : Information Technology (IT)";
 const sectionName = "Section : Software"
