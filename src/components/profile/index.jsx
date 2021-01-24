@@ -6,8 +6,8 @@ import Links from './links'
 
 
 class Profile extends React.Component{
-    render()    
-    {
+    render(){
+    
         return(
 
             <div className="Container">
